@@ -1,0 +1,195 @@
+.header {
+    background-color: #dddbd9;
+    padding-bottom: 5%;
+}
+
+.navbar-brand,
+.nav-item .btn {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.banner {
+    height: 100vh;
+}
+
+.banner-first {
+    height: 100vh;
+    background-image: url("../Images/pexels-photo-6640291.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+banner-text-img {
+    height: 30vh;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.banner-text-img-container {
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    margin-bottom: 10%;
+}
+
+.banner-text-img-1 {
+    background-image: url('../Images/pexels-photo-5490361.jpeg');
+}
+
+.banner-text-img-2 {
+    background-image: url('../Images/pexels-photo-5490361.jpeg');
+}
+
+.banner-text-img-3 {
+    background-image: url('../Images/pexels-photo-5490361.jpeg');
+}
+
+.text {
+    height: 70vh;
+    background-color: white;
+}
+
+.content {
+    color: black;
+}
+
+.new-style {
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* margin-bottom: 10%; */
+    overflow: hidden;
+}
+
+.bl {
+    border: 1px solid black;
+}
+
+.img-1 {
+    background-image: url('../Images/basket.jpeg');
+}
+
+.img-2 {
+    background-image: url("../Images/cloth.jpeg");
+}
+
+.third-style {
+    padding-top: 10%;
+}
+
+.lorem {
+    color: black;
+    font-size: 40px;
+}
+
+.group {
+    height: 100vh;
+}
+
+.group-first {
+    height: 100vh;
+    background-image: url("../Images/group.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.group-second {
+    height: 30vh;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.group-parent {
+    overflow: hidden;
+}
+
+.apartment {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.interior {
+    background-color: #dddbd9;
+    padding-bottom: 5%;
+}
+
+.ideas {
+    font-size: 50px;
+    color: black;
+}
+
+.home {
+    font-size: 50px;
+    color: black;
+}
+
+.the-pics {
+    width: 100%;
+}
+
+.number-four {
+    background-color: #dddbd9;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.paul-contact {
+    background-color: #332e29;
+}
+
+.paul-test {
+    color: white;
+    /* font-size: 17px; */
+}
+
+.last-footer {
+    color: white;
+}
+
+.sample {
+    font-size: 16px;
+}
+
+.banner {
+    background-image: url("../Images/images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form,
+.banner {
+    height: 105vh;
+}
+
+.form {
+    border: 1px solid white;
+    padding: 65px;
+}
+
+.form-control {
+    border-radius: 0px;
+    background-color: transparent;
+}
+
+.form-control:focus,
+.form-control:hover,
+.form-control:visited {
+    background-color: transparent;
+}
+
+.btn {
+    border-radius: 0px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
